@@ -1,7 +1,6 @@
 [![Build Status](https://travis-ci.org/eripheebs/rps-challenge.svg?branch=master)](https://travis-ci.org/eripheebs/rps-challenge)
 [![Coverage Status](https://coveralls.io/repos/github/eripheebs/rps-challenge/badge.svg?branch=master)](https://coveralls.io/github/eripheebs/rps-challenge?branch=master)
 
-View it here: https://calm-sierra-74037.herokuapp.com/
 
 Task
 -------
